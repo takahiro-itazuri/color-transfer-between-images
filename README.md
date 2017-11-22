@@ -11,9 +11,9 @@ For this goal, they select lab color space as an orthogonal color space without 
 
 In <i>"main.cpp"</i>, the source image path and the reference image path is <i>"src_filename"</i> and <i>"ref_filename"</i> respectively.
 
-<u>source image</u>
-<img src="examples/src.jpg">
-<u>reference image</u>
-<img src="examples/ref.jpg">
-<u>result image</u>
-<img src="examples/dst.jpg">
+<u>source image</u><br>
+<img src="examples/src.jpg" width="500px"><br>
+<u>reference image</u><br>
+<img src="examples/ref.jpg" width="500px"><br>
+<u>result image</u><br>
+<img src="examples/dst.jpg" width="500px"><br>
